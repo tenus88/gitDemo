@@ -5,5 +5,6 @@ public class NewLife {
         System.out.println ("I wanna milk");
         System.out.println( "I wanna be rich");
         // aqwe
+        //BLM
     }
 }
